@@ -15,3 +15,10 @@ Then create-react-app
 sudo npm install -g create-react-app
 
 ``` 
+
+Don't forget git !
+
+``` 
+sudo apt-get install git
+
+``` 
