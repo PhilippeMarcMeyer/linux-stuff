@@ -9,3 +9,9 @@ I have now to install node with the software manager sudo apt install npm
 ``` 
 sudo apt install npm
 ``` 
+Then create-react-app
+
+``` 
+npm install -g create-react-app
+
+``` 
